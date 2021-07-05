@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 
     QTextStream cout(stdout);
     cout << "!Server!" << endl;
-    //Aboba
+
     UdpServer server;
 
     return a.exec();
